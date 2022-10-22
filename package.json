@@ -9,6 +9,6 @@
   "author": "smart developer",
   "license": "ISC",
   "dependencies": {
-    "yargs": "^17.5.1"
+    "yargs": "^17.6.0"
   }
 }
